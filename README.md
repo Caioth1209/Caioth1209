@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Caioth1209
-- 👀 I’m interested in all that includes tecnology.
+- 👋 Hi, I’m @Caioth1209.
+- 👀 I love tecnology!
 - 🌱 I’m currently learning web development!
 
 <!---
