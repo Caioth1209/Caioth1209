@@ -2,7 +2,6 @@
 
 - 📚 Estudando Javascript Avançado.
 - ❤️ Amo Tecnologia.
-- 😉 Não tenho experiência profissional ainda.
 
 <div align="center">
   <a href="https://github.com/Caioth1209">
