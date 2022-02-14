@@ -1,4 +1,4 @@
-## Olá, meu nome é Caio Araujo da Luz!
+## Olá, meu nome é Caio Araujo!
 
 - 📚 Estudando Javascript Avançado.
 - ❤️ Amo Tecnologia.
