@@ -1,6 +1,6 @@
 ## Olá, meu nome é Caio Araujo!
 
-- 📚 Estudando Javascript Avançado.
+- 📚 Estudando Node.js!
 - ❤️ Amo Tecnologia.
 
 <div align="center">
