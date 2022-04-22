@@ -1,6 +1,6 @@
 ## Olá, meu nome é Caio Araujo!
 
-- 📚 Estudando Node.js e React.js!
+- 📚 Estudando Node.js!
 - ❤️ Amo Tecnologia.
 
 <div align="center">
@@ -18,8 +18,7 @@
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   <img align="center" alt="Caio-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  
-  <img align="center" alt="Caio-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
   
   ## Entre em contato comigo
