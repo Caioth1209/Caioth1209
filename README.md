@@ -24,11 +24,6 @@
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-<hr>
-
-  ## Métricas do meu GitHub
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalialevy&exclude_repo=logica-basica,step-computer-academy-modulo04,step-academy-computer-modulo01,ORGANIZAR,projeto-loja-tecidos=github-readme-stats,anuraghazra.github.io&theme=dracula&title_color=d986ca&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
   <hr>
 
