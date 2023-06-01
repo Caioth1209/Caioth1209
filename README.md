@@ -3,7 +3,7 @@
 
   <h3>Olá, meu nome é Caio Araujo!</h3>
   
-  <p>Atualmente sou estudante do curso de Desenvolvimento de Software na Step Computer Academy e de Análise e Desenvolvimento de Sistemas no Ibmec! Estou trabalhando na área como Estagiário de Desenvolvimento na Target Solutions - Brasil </p>
+  <p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no Ibmec e tenho uma empresa de soluções digitais.</p>
   
 
   
