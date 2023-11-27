@@ -2,8 +2,7 @@
 <div align="center">
 
   <h3>Olá, meu nome é Caio Araujo!</h3>
-  
-  <p>Atualmente sou estudante de Análise e Desenvolvimento de Sistemas no Ibmec e tenho uma empresa de soluções digitais.</p>
+ 
   
 
   
